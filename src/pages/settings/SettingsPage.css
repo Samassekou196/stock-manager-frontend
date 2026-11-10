@@ -1,0 +1,27 @@
+.receipt-preview {
+  font-family: 'Courier New', monospace;
+  font-size: 0.85rem;
+  background: #f8fafc;
+  border: 1px dashed #cbd5e1;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.receipt-preview-header {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.receipt-preview-header strong {
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.receipt-preview-header p {
+  font-size: 0.75rem;
+  margin: 2px 0;
+  color: #475569;
+}
